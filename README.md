@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://davidcostacv.github.io)
+[Live Demo Link](https://davidcostacv.github.io/My-First-Website/)
 
 
 ## Getting Started
