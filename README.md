@@ -1,8 +1,7 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# My first Website
 
-> One paragraph statement about the project.
 
 ![screenshot](./app_screenshot.png)
 
@@ -45,7 +44,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **David Costa**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/davidcostacv)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
